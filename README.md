@@ -15,7 +15,9 @@
 
 ## 📸 Screenshots
 
-> *(Add screenshots here — dark mode and light mode)*
+<img width="1425" height="1111" alt="SvxLink-Dashboard for CN8VX V4 0" src="https://github.com/user-attachments/assets/f28aaaa0-6127-4493-870d-e125aa55ddab" />
+
+<img width="1423" height="1369" alt="Logs Viewer" src="https://github.com/user-attachments/assets/d88433d2-4cc3-4428-9fc6-e20d828d3220" />
 
 ---
 
@@ -242,7 +244,9 @@ Before contacting support:
 
 ## 📸 Captures d'écran
 
-> *(Ajouter ici des captures en mode sombre et mode clair)*
+<img width="1425" height="1111" alt="SvxLink-Dashboard for CN8VX V4 0" src="https://github.com/user-attachments/assets/f28aaaa0-6127-4493-870d-e125aa55ddab" />
+
+<img width="1423" height="1369" alt="Logs Viewer" src="https://github.com/user-attachments/assets/d88433d2-4cc3-4428-9fc6-e20d828d3220" />
 
 ---
 

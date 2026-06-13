@@ -109,7 +109,7 @@ The full installation takes less than **5 minutes**.
 ```bash
 cd /var/www
 sudo rm -rf html
-sudo git clone https://github.com/CN8VX/SvxLink-Dashboard-V4 html
+sudo git clone https://github.com/CN8VX/SvxLink-Dashboard-V4.0-by-CN8VX html
 ```
 
 ### Step 2 — Add the EchoLink Log page
@@ -335,7 +335,7 @@ L'installation complète prend moins de **5 minutes**.
 ```bash
 cd /var/www
 sudo rm -rf html
-sudo git clone https://github.com/CN8VX/SvxLink-Dashboard-V4 html
+sudo git clone https://github.com/CN8VX/SvxLink-Dashboard-V4.0-by-CN8VX html
 ```
 
 ### Étape 2 — Ajouter la page EchoLink Log

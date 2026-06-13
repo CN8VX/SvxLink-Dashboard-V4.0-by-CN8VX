@@ -116,7 +116,7 @@ sudo git clone https://github.com/CN8VX/SvxLink-Dashboard-V4.0-by-CN8VX html
 
 ```bash
 cd /var/www/html
-git clone https://github.com/CN8VX/echolinksvx echolinksvx
+sudo git clone https://github.com/CN8VX/echolinksvx echolinksvx
 cd
 ```
 
@@ -342,7 +342,7 @@ sudo git clone https://github.com/CN8VX/SvxLink-Dashboard-V4.0-by-CN8VX html
 
 ```bash
 cd /var/www/html
-git clone https://github.com/CN8VX/echolinksvx echolinksvx
+sudo git clone https://github.com/CN8VX/echolinksvx echolinksvx
 cd
 ```
 

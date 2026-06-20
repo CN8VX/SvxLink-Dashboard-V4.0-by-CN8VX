@@ -1,8 +1,5 @@
 # SvxLink Dashboard V4.0 by CN8VX
 
-> Real-time web dashboard for SvxLink repeaters and hotspots.  
-> Compatible with SvxLink v2, v3+ on Debian 12/13 and Raspberry Pi OS (Bookworm, Trixie).
-
 ![Version](https://img.shields.io/badge/version-4.0-blue)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple)
 ![License](https://img.shields.io/badge/license-All%20rights%20reserved-red)
@@ -13,6 +10,17 @@
 
 ---
 
+<a name="english"></a>
+## <img src="https://flagcdn.com/w20/us.png" width="30"/> English
+
+
+**SvxLink Dashboard V4.0** is a modern web interface designed for amateur radio operators who want to monitor and manage their SvxLink repeaters and hotspots remotely.
+
+With its intuitive interface, it provides real-time visibility of system status, reflector connections, EchoLink traffic, activity logs, and various technical information.
+
+Compatible with SvxLink v2 and v3+, running on Debian 12/13 and Raspberry Pi OS (Bookworm and Trixie).
+
+
 ## 📸 Screenshots
 
 <img width="1425" height="1111" alt="SvxLink-Dashboard for CN8VX V4 0" src="https://github.com/user-attachments/assets/f28aaaa0-6127-4493-870d-e125aa55ddab" />
@@ -21,8 +29,7 @@
 
 ---
 
-<a name="english"></a>
-## <img src="https://flagcdn.com/w20/us.png" width="30"/> English
+
 
 ## 🤔 Why this dashboard?
 
@@ -231,9 +238,6 @@ Before contacting support:
 
 # SvxLink Dashboard V4.0 by CN8VX
 
-> Tableau de bord web en temps réel pour répéteurs et hotspots SvxLink.  
-> Compatible SvxLink v2, v3+ sous Debian 12/13 et Raspberry Pi OS (Bookworm, Trixie).
-
 ![Version](https://img.shields.io/badge/version-4.0-blue)
 ![PHP](https://img.shields.io/badge/PHP-7.4%2B-purple)
 ![Licence](https://img.shields.io/badge/licence-Tous%20droits%20réservés-red)
@@ -241,6 +245,12 @@ Before contacting support:
 ![SvxLink](https://img.shields.io/badge/SvxLink-v2%2B-orange)
 
 ---
+
+**SvxLink Dashboard V4.0** est une interface web moderne conçue pour les radioamateurs souhaitant superviser et administrer à distance leurs répéteurs et hotspots SvxLink.
+
+Grâce à son interface intuitive, il permet de visualiser en temps réel l'état du système, les connexions aux réflecteurs, le trafic EchoLink, les journaux d'activité ainsi que diverses informations techniques.
+
+Compatible avec SvxLink v2 et v3+, sous Debian 12/13 et Raspberry Pi OS (Bookworm et Trixie).
 
 ## 📸 Captures d'écran
 
